@@ -1,11 +1,14 @@
 # Mapeamento de CO2 a partir de trajetos do trânsito em São Paulo
 
 - [Mapeamento de CO2 a partir de trajetos do trânsito em São Paulo](#mapeamento-de-co2-a-partir-de-trajetos-do-trânsito-em-são-paulo)
+  - [O notebook com o código de análise está disponível aqui](#o-notebook-com-o-código-de-análise-está-disponível-aqui)
   - [0. Introdução e problema](#0-introdução-e-problema)
   - [1. Método de trabalho](#1-método-de-trabalho)
   - [2. Análise da emissão de CO2 por modalidade](#2-análise-da-emissão-de-co2-por-modalidade)
   - [3. Mapeamento de CO2 nos trajetos](#3-mapeamento-de-co2-nos-trajetos)
   - [4. Conclusão](#4-conclusão)
+  
+## O notebook com o código de análise está disponível [aqui](analise.md)
 
 ## 0. Introdução e problema
 
